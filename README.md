@@ -1,7 +1,7 @@
 # Wordpress functions:
 note: your can replace the app_ with your theme extension
 
-Basic Them Structure:
+Basic Theme Structure:
 ```
 ├───theme
 │   ├───css
