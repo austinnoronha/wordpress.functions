@@ -51,3 +51,5 @@ Use and contribute !!
 
 18. app_excerpt_more() - Custom Excerpt Ending
 
+
+To contribute please DM on @austinnoronha
