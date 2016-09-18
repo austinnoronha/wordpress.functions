@@ -12,7 +12,7 @@ Basic Them Structure:
 │   ├───inc
 │   │   └───widgets
 │   ├───js
-│   └───function.php
+│   └───functions.php
 ```
 
 These functions are commonly used functions used for every custom theme.
