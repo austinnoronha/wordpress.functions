@@ -2,6 +2,7 @@
 note: your can replace the app_ with your theme extension
 
 Basic Them Structure:
+```
 ├───theme
 │   ├───css
 │   ├───fonts
@@ -12,7 +13,7 @@ Basic Them Structure:
 │   │   └───widgets
 │   ├───js
 │   └───function.php
-
+```
 
 These functions are commonly used functions used for every custom theme.
 Use and contribute !!
